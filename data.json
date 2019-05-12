@@ -8,6 +8,10 @@
 		{
 			"nama_materi":"Pengurangan",
 			"materi_img":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/pengurangan.png"
+		},
+		{
+			"nama_materi":"Perkalian",
+			"materi_img":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/perkalian.png"
 		}
 	]
 }
