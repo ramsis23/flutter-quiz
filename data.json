@@ -3,11 +3,11 @@
 	"data": [
 		{
 			"nama_materi":"Penjumlahan",
-			"materi_img":"https://github.com/ramsis23/flutter-quiz/images/pemjumlahan.png"
+			"materi_img":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/penjumlahan.png"
 		},
 		{
 			"nama_materi":"Pengurangan",
-			"materi_img":"https://github.com/ramsis23/flutter-quiz/images/penjumlahan.png"
+			"materi_img":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/pengurangan.png"
 		}
 	]
 }
