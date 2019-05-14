@@ -1,8 +1,23 @@
 [
 {
-	"pertanyaan":"pertanyaan 1",
-	"opsi": [
-		"opsi1","opsi2","opsi3","opsi4"
+	"pertanyaan":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/pertanyaan/q1.png",
+	"opsiPilihan": [
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/2.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/3.png",
+			"benar": true		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/1.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/4.png",
+			"benar": false		
+		}
 	]
 }
 ]
