@@ -33,11 +33,53 @@
 		},
 		{
 			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/2.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/3.png",
 			"benar": true		
+		}
+	]
+},
+{
+	"pertanyaan":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/pertanyaan/q3.png",
+	"opsiPilihan": [
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/5.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/4.png",
+			"benar": true		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/6.png",
+			"benar": false		
 		},
 		{
 			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/3.png",
 			"benar": false		
+		}
+	]
+},
+{
+	"pertanyaan":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/pertanyaan/q4.png",
+	"opsiPilihan": [
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/6.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/7.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/5.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/4.png",
+			"benar": true		
 		}
 	]
 }
