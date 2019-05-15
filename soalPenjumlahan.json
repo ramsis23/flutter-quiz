@@ -82,5 +82,26 @@
 			"benar": true		
 		}
 	]
+},
+{
+	"pertanyaan":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/pertanyaan/q5.png",
+	"opsiPilihan": [
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/3.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/4.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/5.png",
+			"benar": false		
+		},
+		{
+			"opsi":"https://raw.githubusercontent.com/ramsis23/flutter-quiz/master/images/nomor/6.png",
+			"benar": true		
+		}
+	]
 }
 ]
